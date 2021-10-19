@@ -1,2 +1,3 @@
 # Playable-Taeyai-With-Phase-3
-Hello!
+1.Replace the BOYFRIEND.png and BOYFRIEND.xml at the game.
+2. Enjoy! :D
